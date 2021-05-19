@@ -1,0 +1,18 @@
+{
+    "roleName": "超级管理员",
+    "roleTypeNum": 0,
+    "roleTypeStr": "root",
+    "menus": [{
+        "menuId": "001",
+        "menuName": "主页",
+        "hasChildMenu": false,
+        "childMenus": []
+    }, {
+        "menuId": "002",
+        "menuName":"人员管理",
+        "hasChildMenu":true,
+        "childMenus":[
+            {"cMenuName":""}
+        ]
+    }]
+}
